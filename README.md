@@ -1,7 +1,7 @@
 # Language-detection
 
 This is homework assignment for application to Petnica summer school of machine learning.
-The goal is to create a software component which will automatically detect the language of a given text in the form of a paragraph, sentence, word, or a few letters. For a given text sequence program calculates the probability of it being written in given languages. Assignment is detaily explained in  * *Language detection.pdf* *.
+The goal is to create a software component which will automatically detect the language of a given text in the form of a paragraph, sentence, word, or a few letters. For a given text sequence program calculates the probability of it being written in given languages. Assignment is detaily explained in  _Language detection.pdf_.
 
 Directory datasets contains 5 examples. Each of them contains: 
 * seqences of text for which we need to detect in what language are they written 
